@@ -3,7 +3,7 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Website link demo:
-https://vath7677.github.io/git_lesson/
+https://git-lesson-gray.vercel.app/
 
 ## Recommended IDE Setup
 
